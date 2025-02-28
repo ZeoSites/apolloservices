@@ -1,0 +1,2 @@
+/var/www/html/apolloservices/fixform.py:134: MarkupResemblesLocatorWarning: The input looks more like a filename than markup. You may want to open this file and pass the filehandle into Beautiful Soup.
+  soup = BeautifulSoup(op, "html.parser")
